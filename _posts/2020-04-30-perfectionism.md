@@ -13,7 +13,7 @@ Having high standards should be the gold standard, right? Somebody pours hours o
 graft into a flawless project that displays the absolute best of what you have to offer and
 everybody stands up and applauds ~~and that man's name, Albert Einstein~~.
 As the old adage says, *'perfect is the enemy of good'*. Once the mind is set
-on making something that is perfect, it is never complete. But worse, once something
+on making something that is perfect, it's doomed to never complete. But worse, once something
 is incomplete, it is categorised in the mind as a failure, in the "shame" part of the brain.
 If you let that worry bury itself, the perfectionist approach to the next half finished
 project will be ever stronger. "This one will be *perfect*!" ...and the cycle of

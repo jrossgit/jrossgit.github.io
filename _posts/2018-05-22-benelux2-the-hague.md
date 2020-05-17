@@ -2,6 +2,7 @@
 layout: post
 title:  Day 2 - Duinrell and Drievliet (In Which parks begin with D and coasters are brown)
 date:   2018-05-22 +0100
+categories: [travel]
 ---
 The Hague is practically next to Rotterdam, so prompted a less frantically early start. Two parks today: Drievliet and Duinrell.
 

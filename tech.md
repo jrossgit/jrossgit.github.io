@@ -1,4 +1,4 @@
 ---
-blog_type: travel
+blog_type: tech
 layout: blog_index
 ---

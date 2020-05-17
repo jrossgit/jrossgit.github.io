@@ -2,6 +2,7 @@
 layout: post
 title:  Day 4 - Plopsaland de Panne (In Which Plop Is a Funny Word)
 date:   2018-05-22 +0100
+categories: [travel]
 ---
 Did you know that there's a tram line that runs along the entire Belgian coast? It goes to Plopsaland. It costs €3 for a trip, even if that's taking a whole hour on the tram from Ostend to De Panne.
 

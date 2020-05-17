@@ -2,6 +2,7 @@
 layout: post
 title:  Day 3 - Brussels and Bruges (In Which A Trip Report Appears Out of Nowhere)
 date:   2018-05-24 +0100
+categories: [travel]
 ---
 Short report today. Sunday started on a very early train out of Rotterdam to Brussels. While we're at it, Rotterdam's ridiculous modern architecture extends to its station. I love it.
 
@@ -72,4 +73,4 @@ I stopped the night over in Ostend, on the Belgian coast.
 
  Not much to say about Ostend, except it exists and is probably busier as a beach destination in summer. The Belgian hostel chain "Jeugdherberg" has a site here, and if you're here in the low season, it's worth booking a dorm, as I got a four-bed dorm all to myself. Winning!
 
-Next report: we find new entries in the top 20.[/i][/i]
+Next report: we find new entries in the top 20.

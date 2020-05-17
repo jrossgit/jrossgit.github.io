@@ -2,6 +2,7 @@
 layout: post
 title:  "Day 0/Day 1 - Efteling (In Which jayjay Regresses to a Childlike State)"
 date:   2018-05-20 +0100
+categories: [travel]
 ---
 Another year, another trip report. I'd been craving a return to coasters for a while, so decided on a long weekend in April. The plan:
 

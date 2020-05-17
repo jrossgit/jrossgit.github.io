@@ -2,6 +2,7 @@
 layout: post
 title:  "Perfectionism and Learning to Love the Mediocre"
 date:   2020-05-02 +0100
+categories: [tech]
 ---
 If you're looking at this blog post at publication, it looks incredibly
 basic. How have I let something this bland be the first personal tech project I publish?

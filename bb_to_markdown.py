@@ -15,6 +15,7 @@ IMAGE_DIRECTORY = "assets/img"
 IMAGE_RE = r"\[IMG\](.*)\[\/IMG\]"
 ITALIC_RE = r"\[I\](.*)\[\/I\]"
 IMAGE_W_CAPTION_RE = IMAGE_RE + "\n" + ITALIC_RE
+MARKDOWN_IMG_RE = r"!\[(.*)\]\(.*/([a-zA-Z0-9]*).jpg\)"
 
 
 def download_image(image_url, file_root):
@@ -51,7 +52,14 @@ def replace_image(match, file_root):
     return f"![]({downloaded_image})"
 
 
-def add_file(filename):
+def replace_markdown_image(match):
+    caption = match.group(1)
+    img_url = match.group(2)
+
+    return f"![](https://i.imgur.com/{img_url}.jpg)\n*{caption}*"
+
+
+def process_bb_file(filename):
     """Process a .bb BBCode blog file, saving a markdown file in its place"""
 
     with open(f"_posts/{filename}") as f:
@@ -80,9 +88,26 @@ def add_file(filename):
         f.write(blog_text)
 
 
+def revert_images(filename):
+    """Revert images"""
+    with open(f"_posts/{filename}") as f:
+        blog_text = f.read()
+
+    blog_text = re.sub(
+        MARKDOWN_IMG_RE,
+        replace_markdown_image,
+        blog_text,
+        flags=re.I
+        )
+
+    with open(f"_posts/{filename.replace('.bb', '.md')}", "w") as f:
+        f.write(blog_text)
+
+
+
 if __name__ == "__main__":
 
     for file in [f for f in os.listdir("_posts") if f.endswith(".bb")]:
-        add_file(file)
+        revert_images(file)
 
     urllib.request.urlcleanup()

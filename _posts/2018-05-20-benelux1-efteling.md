@@ -98,7 +98,4 @@ A few rerides of various things later, and that's the day! So, Efteling somehow 
 ![](https://i.imgur.com/BhGFovA.jpg)
 *NOOOOO I want my stroopwafel!*
 
-![](https://i.imgur.com/rJF9rLR.jpg)
-*Casually spotted an Efteling employee on the train*
-
 Episode two next, in which too many coasters are brown.

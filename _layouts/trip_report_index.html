@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<div class="home">
+
+      {%- if page.list_title -%}
+        <h2 class="post-list-heading">{{ page.list_title }}</h2>
+      {%- endif -%}
+
+      <ul class="post-list">
+      {% for series in site.data.series %}
+        <li>
+            <h2>
+                {{ series.title | escape }}
+            </h2>
+            <p>{{ series.description | escape }}</p>
+            {% assign series-posts = site.posts | reverse | where: 'series', series.id %}
+            {% for post in series-posts %}
+                <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title | date: date_format }}</a> |
+
+            {%- endfor -%}
+        </li>
+        </ul>
+
+      {% endfor %}
+
+  </div>

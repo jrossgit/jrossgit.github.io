@@ -1,6 +1,7 @@
 ---
-layout: post
-title:  Duinrell and Drievliet - Day 2
+layout: theme_park_report
+series: benelux
+title:  Duinrell and Drievliet
 subtitle: In which parks begin with D and many roller coasters are brown
 date:   2018-05-22 +0100
 categories: [travel]
@@ -20,10 +21,8 @@ Going in its favour, the April heatwave was in full force brightening the place 
 I bought my ticket, entered the park, and... you know, I'll be controversial. The park is OK. Not great, but still OK. The park is clearly operating on a tiny budget, and it's a small place. Other than that, it's reasonably well kept and has various trees and cartoony flourishes. I feel mis-sold
 
 ![](https://i.imgur.com/GC4rKec.jpg)
-**
 
 ![](https://i.imgur.com/byoDbtk.jpg)
-**
 
 There's only a couple of creds worth really talking about. Obvious thrill ride Formule X is obvious, so I get it out of the way. This is admittedly one corner of the park without much ambience.
 
@@ -31,7 +30,6 @@ There's only a couple of creds worth really talking about. Obvious thrill ride F
 *Ah Maurer, how I missed your weird uncomfortable restraints*
 
 ![](https://i.imgur.com/Yx3X69B.jpg)
-**
 
 I had two rides on FX during the day. The first ride was a little rattly but generally fun. The second suffered a major pinning by the ride-op and it all went wrong and gross. This is why you try to leave on a high, folks.
 
@@ -64,7 +62,6 @@ At Duinrell, the forest closes in on all sides and I realise this is going to be
 *This is like Oakwood's Waterfall but without the water trough of doom. So what is the point, really?*
 
 ![](https://i.imgur.com/qNa74fz.jpg)
-**
 
 The park's a strange sprawling layout where you're unsure it's got any creds until you find the one path to the main area. Speaking about creds, let's talk about them. Specifically, let's talk about how they're all f**ing brown!
 
@@ -74,7 +71,8 @@ The park's a strange sprawling layout where you're unsure it's got any creds unt
 ![](https://i.imgur.com/g0uj8Pn.jpg)
 *Single...*
 
-![One...](/assets/img/2018-05-22-benelux2-the-hague/g7KLP14.jpg?1)
+![](https://i.imgur.com/g7KLP14.jpg?1)
+*One...*
 
 As they go, they're a mix. The kiddie cred is your standard Zierer rumblebum, but with a nice long layout. Dragon Fly (specifically two words), the sit down coaster, packs a surprising amount of pace towards the end of the layout. Falcon, the Eurofighter, is about average as Eurofighters go. Rough in places, but good fun on anywhere it doesn't have to turn a corner.
 
@@ -86,7 +84,6 @@ Being a small park, there's plenty of time to take all their offerings at a leis
 The covered water chute, Splash, is a must for the novelty. Not entirely sure how much I trusted the plastic head-holes on the non-covered boat, so opted for the covered boat. You seldom get the opportunity to realise how odd covered cars are on rides.
 
 ![](https://i.imgur.com/hdvtwFX.jpg)
-**
 
 ![](https://i.imgur.com/0oUMpOW.jpg)
 *Can't complain that the ride name isn't truth in advertising*
@@ -97,20 +94,18 @@ The covered water chute, Splash, is a must for the novelty. Not entirely sure ho
 And of course, we never pass up the opportunity for a good bobsled.
 
 ![](https://i.imgur.com/BnPcesG.jpg)
-**
 
 This seems like the sort of park which, pleasant on your own, would light up a little more with a group of enthusiasts. It's got a ton of fun things dotted around the place but there's not enough for me to want to come back for repeat visits soon. It's got that peaceful woodland vibe that makes it worth at least one visit.
 
 Being a short day so far, this seemed like the best time to see some of Rotterdam. It's mostly garnered a reputation as being a very modern city. Your best bet is to head to Rotterdam Blaak station ato find most of the exciting buildings. For example, the foodcourt is insane...
 
 ![](https://i.imgur.com/KojfWxe.jpg)
-**
 
 ![](https://i.imgur.com/NJcuUvR.jpg)
 *I bought some noodles but there's loads of stuff here*
 
 ![](https://i.imgur.com/5g5aO9R.jpg)
-*In general, Rotterdam's approach to architecture seems to be "**** convention!"*
+*In general, Rotterdam's approach to architecture seems to be "screw convention!"*
 
 ![](https://i.imgur.com/2ABafV5.jpg)
 *The famous Cubes - an architectural forest where you live in the trees*

@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  Plopsaland de Panne - Day 4
-subtitle: In which 'plop' is a funny worc
-date:   2018-05-22 +0100
+layout: theme_park_report
+series: benelux
+title:  Plopsaland de Panne
+subtitle: In which 'plop' is a funny word
+date:   2018-05-28 +0100
 categories: [travel]
 ---
 Did you know there's a tram line that runs along the entire Belgian coast? It goes to Plopsaland. It costs €3 for a trip, even if that's taking a whole hour on the tram from Ostend to De Panne.
@@ -22,7 +23,6 @@ Did you know there's a tram line that runs along the entire Belgian coast? It go
 Despite never having been to Plopsaland but having been to most of the other Plopsa parks, there's a lot of familiarity, but spread over a larger distance. The indoor section "Maya Land" is very much like the indoor park in Hasselt (only without a coaster)
 
 ![](https://i.imgur.com/gezm2hi.jpg)
-**
 
 ![](https://i.imgur.com/9Kbaby6.jpg)
 *This is their Disc-O. I'm not reviewing it at length because it's exactly like every other one but it looks nice*
@@ -35,13 +35,10 @@ The whole place is slathered in cartoon theming of very high standard. We like p
 But obviously they're not all novelties. So going on to the *real* coasters. First, Anubis. Like every other coaster, this is themed to a television show I've never watched. Can we all take a moment to appreciate the fab queue?
 
 ![](https://i.imgur.com/XNXzKml.jpg)
-**
 
 ![](https://i.imgur.com/bF1erdv.jpg)
-**
 
 ![](https://i.imgur.com/VoxciYE.jpg)
-**
 
 Anyway, this is great. Now, many have accused me of being a straight-up Gerstlauer fanboy, but I want to clarify my "Rule of Gerstlauer." A Gerstlauer is great if and only if it has at least two of the following qualities:
 
@@ -52,7 +49,6 @@ Anyway, this is great. Now, many have accused me of being a straight-up Gerstlau
 I've not found one that doesn't fit the bill yet... until Anubis which only has a launch. The launch is strong and the top hat produces buckets of airtime, and then the rest is punchy and fast. It's a borderline top 10 for me. Unfortunately, it appears that seat choice really matters and while the front is smooth and lovely, the rattles and jerky transitions reveal themselves in the back. Still, love the thing!
 
 ![](https://i.imgur.com/IqNzlq7.jpg)
-**
 
 Over in the medieval corner of the park, the powered coaster Draak flies overhead. The castle queue is quite spectacular and I'm a fan of the dragon theming on the train. Nothing to write home about ride-wise though.
 
@@ -62,10 +58,8 @@ Over in the medieval corner of the park, the powered coaster Draak flies overhea
 Right at the back, we have Heidi The Ride. Probably the only coaster that had any significant queue at any point, because it was on one train. Not that it needed more than one, they were only running a fifteen minute queue as it was. Decent ride, I went back a few times during the day and though it's not huge, it packs a decent amount of energy for its size.
 
 ![](https://i.imgur.com/VrqFYCg.jpg)
-**
 
 ![](https://i.imgur.com/QKbUZRe.jpg)
-**
 
 Obviously, being more of a family park, there's a decent amount of tame stuff. The farm is always worth a look. Sheep lovers everywhere (insert Wales joke) will appreciate their tractor ride.
 
@@ -95,13 +89,13 @@ I found enough to do until about mid-afternoon, including a little shopping from
 
 Making my way back home, I managed to break De Panne station's ticket machine with my bank card (by the way, De Panne station is a couple of minutes walk from the park entrance and gives direct trains to Brussels). I decided to stop off on the way back at Kortrijk, because my Google Image search turned up nice buildings. It does indeed have some nice buildings, and a shop that sold me a tasty waffle (because Belgium)
 
-![Let's play "Does anybody at all get my super obscure reference"](/assets/img/2018-05-28-benelux4-plopsaland/brRfI4v.jpg?1)
+![](https://i.imgur.com/brRfI4v.jpg?1)
+*Let's play "Does anybody at all get my super obscure reference"*
 
 ![](https://i.imgur.com/lQEFIPy.jpg)
 *The Beguijnhof, which is a UNESCO world heritage site*
 
 ![](https://i.imgur.com/WKUgW0M.jpg)
-**
 
 ![](https://i.imgur.com/vTDP1r4.jpg)
 *Broel Towers on the River Lys*
@@ -110,7 +104,6 @@ Making my way back home, I managed to break De Panne station's ticket machine wi
 *The Kortrijk Belfry is also a world heritage site - two sites for a town of 75000 people isn't bad going!*
 
 ![](https://i.imgur.com/br6cr3u.jpg)
-**
 
 And with Belgium done with, made my way over to Lille.
 

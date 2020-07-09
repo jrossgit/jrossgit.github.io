@@ -1,4 +1,4 @@
 ---
 blog_type: travel
-layout: blog_index
+layout: trip_report_index
 ---

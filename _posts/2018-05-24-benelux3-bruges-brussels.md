@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  Brussels and Bruges - Day 3
-subtitle: In which a trip report appears aout of nowhere
+layout: theme_park_report
+series: benelux
+title:  Brussels and Bruges
+subtitle: In which a trip report appears out of nowhere
 date:   2018-05-24 +0100
 categories: [travel]
 ---
@@ -21,13 +22,11 @@ Sightseeing in Brussels has never been high on my tourism list, but I did feel l
 *Metro cred! Brussels has a lot of stations with their own characteristic, which I'm always a fan of*
 
 ![](https://i.imgur.com/nb6SMu7.jpg)
-**
 
 ![](https://i.imgur.com/qaWYiy0.jpg)
 *I swear I was supposed to be smiling in this picture*
 
 ![](https://i.imgur.com/R95a06V.jpg)
-**
 
 ![](https://i.imgur.com/9rzrWxv.jpg)
 *Main square*
@@ -38,7 +37,6 @@ Sightseeing in Brussels has never been high on my tourism list, but I did feel l
 Main tourist spots covered, so was time to...
 
 ![](https://i.imgur.com/QmAgqNa.jpg)
-**
 
 I moved onwards to the main order of the day - Bruges. My only regret is that I haven't watched the movie "In Bruges", so there's a ton of jokes I can't make.
 
@@ -50,20 +48,17 @@ My opinion of Bruges might be tinged by the fact that I was mildly sleep deprive
 *Quiet sidestreets is more my style*
 
 ![](https://i.imgur.com/L13M6si.jpg)
-**
 
 ![](https://i.imgur.com/KCzoZp5.jpg)
 *Jan van Eyck - he's the guy who painted pictures where all the women look like Putin*
 
 ![](https://i.imgur.com/xBtK3Hz.jpg)
-**
 
 But the more you walk around, the more it feels like the whole place only exists for tourists. Like, I know people live here. Lots of people. But the crowds overwhelm, and every shop starts to look like some kind of tourist trap. I dunno, it's a good place, but maybe I'd need to visit in the off season for a better result.
 
 ![](https://i.imgur.com/9y99U1L.jpg)
-**
 
-That said, since I *was** a tourist, I took the opportunity to have a sit down and regain some kind of plan by taking a boat tour.
+That said, since I *was* a tourist, I took the opportunity to have a sit down and regain some kind of plan by taking a boat tour.
 
 ![](https://i.imgur.com/lOVhgHe.jpg)
 *This guy has to give a live tour in three different languages*
@@ -82,7 +77,6 @@ Yep, turns out a fair rocked up just as I was travelling through. Some people mi
 *Something familiar about Elliott*
 
 ![](https://i.imgur.com/RmRLdji.jpg)
-**
 
 So yeah, on a better day, I might be more charitable about Bruges. It's a very picturesque place and I'd recommend it if it's your kind of thing but I have a low tolerance for places with lots of tourists (Cambridge probably did it in for me).
 

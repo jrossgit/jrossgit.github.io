@@ -6,7 +6,8 @@ import shutil
 import urllib.request
 
 
-LOGGER = logging.getLogger(__name__)
+LOGGER = logging.getLogger("root")
+LOGGER.setLevel(logging.DEBUG)
 
 FILENAME = "2018-05-20-benelux1-efteling.bb"
 IMAGE_DIRECTORY = "assets/img"
@@ -28,28 +29,30 @@ def download_image(image_url, file_root):
     return os.path.join("/", IMAGE_DIRECTORY, file_root, image_name)
 
 
-def replace_image_and_caption(match, file_root):
+def replace_image_and_caption(match, file_root, download=False):
     """Process image tag with following caption tag"""
     image_url = match.group(1)
     caption = match.group(2)
 
-    if not image_url:
-        return ""
+    if download:
+        if not image_url:
+            return ""
 
-    downloaded_image = download_image(image_url, file_root)
+        image_url = download_image(image_url, file_root)
 
-    return f"![{caption}]({downloaded_image})"
+    return f"![]({image_url})\n*{caption}*"
 
 
-def replace_image(match, file_root):
+def replace_image(match, file_root, download=False):
     """Process image tag on its own"""
     image_url = match.group(1)
 
     if not image_url:
         return ""
 
-    downloaded_image = download_image(image_url, file_root)
-    return f"![]({downloaded_image})"
+    if download:
+        image_url = download_image(image_url, file_root)
+    return f"![]({image_url})"
 
 
 def replace_markdown_image(match):
@@ -67,8 +70,8 @@ def process_bb_file(filename):
 
     file_root = filename.replace(".bb", "")
 
-    if not os.path.exists(os.path.join(IMAGE_DIRECTORY, file_root)):
-        os.mkdir(os.path.join(IMAGE_DIRECTORY, file_root))
+    # if not os.path.exists(os.path.join(IMAGE_DIRECTORY, file_root)):
+    #     os.mkdir(os.path.join(IMAGE_DIRECTORY, file_root))
 
     blog_text = re.sub(
         IMAGE_W_CAPTION_RE,
@@ -108,6 +111,7 @@ def revert_images(filename):
 if __name__ == "__main__":
 
     for file in [f for f in os.listdir("_posts") if f.endswith(".bb")]:
-        revert_images(file)
+        LOGGER.info(f"Processing file {file}")
+        process_bb_file(file)
 
     urllib.request.urlcleanup()

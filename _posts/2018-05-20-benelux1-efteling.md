@@ -1,6 +1,8 @@
 ---
-layout: post
-title:  "Day 0/Day 1 - Efteling (In Which jayjay Regresses to a Childlike State)"
+layout: theme_park_report
+title:  Efteling
+subtitle: In Which James Regresses to a Childlike State
+series: benelux
 date:   2018-05-20 +0100
 categories: [travel]
 ---
@@ -17,7 +19,6 @@ The plan was motivated by a few things. Firstly, as I occasionally mention, I li
 *Sir John Betjeman is personally shocked that this report starts on a train*
 
 ![](https://i.imgur.com/GgIw3LY.jpg)
-**
 
 Rotterdam acts as a convenient base for doing The Netherlands, so I arrived around 10pm to go and find my hostel. Hostels can be hit and miss. Room Rotterdam wasn't bad in itself, but I got hampered with some roomies who wanted to barge in at 1am, and another who snored. A lot. When I run a hostel, snorers get discounts on private rooms.
 
@@ -69,7 +70,6 @@ Second option: Baron 1898 where I remembered how good the pre-show, the music an
 Quick blast over to Fata Morgana. I'm definitely doing the dark rides in reverse-order of goodness.
 
 ![](https://i.imgur.com/fs1XfTS.jpg)
-**
 
 I'd also recommend the indoor steam carousel, with proper fairground organ to boot.
 
@@ -87,7 +87,6 @@ Take two of Flying Dutchman was successful. Half hour queue (on a non-holiday we
 Of the other coasters, Joris en de Draak is still pacey and fun, but not a stand out for me. Bob is still weirdly terrifying.
 
 ![](https://i.imgur.com/8UgGWeP.jpg)
-**
 
 And finally, as the day was drawing to a close, Python's queue was vanishing. And it turns out, you actually can polish a turd. Congratulations to whoever thought this idea because Python is now... OK. It's fine.
 

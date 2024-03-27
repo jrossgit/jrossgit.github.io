@@ -1,0 +1,20 @@
+- name: Static Site Deploy
+  hosts: myhosts
+  tasks:
+    # - name: Copy static site
+    #   ansible.posix.synchronize:
+    #     dest: /var/www/blog
+    #     src: ../_site/
+    #   become: true
+
+    - name: Install nginx
+      ansible.builtin.package:
+        name: nginx
+        state: present
+      become: true
+
+    - name: Copy nginx configuration
+      ansible.builtin.copy:
+        src: nginx/nginx.conf
+        dest: /etc/nginx/nginx.conf
+      become: true

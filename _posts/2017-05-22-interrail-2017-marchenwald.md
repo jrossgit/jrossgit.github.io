@@ -80,8 +80,7 @@ At the top of the hill was a wooden hut, with a laminated storybook for parents 
 A couple of chapels adorned the hillside. A little walk further, I found a trail of small huts, each containing a religious scene from the crucifixion, leading up the hill from a chapel to a giant crucifix.
 
 ![](http://imgur.com/bFo0mY6.jpg)
-[I]I was gonna put some pictures of the actual scenes here, but the glare makes them unusable
-[/I]
+*I was gonna put some pictures of the actual scenes here, but the glare makes them unusable*
 ![](http://imgur.com/HPiy7r0.jpg)
 
 More walking and looking at things.

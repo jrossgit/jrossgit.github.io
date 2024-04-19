@@ -1,10 +1,11 @@
 ---
 layout: post
 title:  "My Taste in Ten Songs"
-date:   2024-04-08 +0100
+date:   2024-04-19 +0100
 categories: [music]
 ---
 
+I grew up surrounded by music, so here, I've tried to distill the fundamentals of my musical taste into ten pieces of music, starting with...
 
 ## *Radiohead* - Pyramid Song
 
@@ -40,13 +41,13 @@ If you like bouncy synthpop and have a strong stomach for kitsch, Todd Terje wil
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lqvzDkgok_g?si=g5yRTxBUQK5Oan5o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Some awful friends got me hooked on the Eurovision Song Contest. It isn't known for bold musical exploration, but the bombastic spectacle and surrounding community more than make up for that. When a country does go for something unique, it stands out, and Ukraine's 2021 entry is a dynamic fusion of folk and electronica. I love that little triangle hit before the final verse thunders in.
+I've watched the Eurovision Song Contest for at least 20 years, but some awful friends of mine enabled the addiction further. It isn't known for bold musical exploration, but the bombastic spectacle more than makes up for that. When a country does go for something unique, it stands out, and Ukraine's 2021 entry is a dynamic fusion of folk and electronica that builds and builds. I love the stupid little triangle hit before the final verse thunders in.
 
 ## *Cardiacs* - RES
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gNdnOTvGbJQ?si=FHPJMUjUapwtYNVE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Cardiacs (not The Cardiacs) are your favourite band's favourite band. You'd be forgiven on first listen for believing a recording studio let a bunch of 7 year olds loose with their instruments, but the more you listen, the more you realise just how tightly composed the chaos really is. They play with everything from unusual harmony, rapid rhythmic shifts, and abrasive instrumentation. After the more conventional opening, RES launches into an instrumental that won't rest for two seconds, yet it remains seamless and cohesive.
+Cardiacs (not The Cardiacs) are your favourite band's favourite band. You'd be forgiven on first listen for believing a recording studio let a bunch of 7 year olds loose with their instruments, but the more you listen, the more you realise just how tightly composed the chaos really is. They play with everything from unusual harmony, rapid rhythmic shifts, and abrasive instrumentation. After the more conventional verses, RES launches into an instrumental spectacular that won't rest for two seconds, yet it remains seamless and cohesive. They could even pull it off flawlessly live!
 
 ## *John Grant* - GMF
 

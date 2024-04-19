@@ -14,3 +14,7 @@ If you're here for ramblings on tech, <a href="/tech.html">click here</a>
 <div class="content-section">
 If you're here for theme park blogs, <a href="/blog.html">click here</a>
 </div>
+
+<div class="content-section">
+Everything else, <a href="/misc.html">click here</a>
+</div>

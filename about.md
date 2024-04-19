@@ -4,5 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Hey, I'm James! My hobbies include choral singing, roller coasters
-and screaming at code that doesn't work
+Hey, I'm James! I'm a software developer and former engineer, working mostly with back-end Python, Javascript, microservices and cloud deployments. This is all under construction at the moment, hold tight!

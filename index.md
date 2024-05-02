@@ -5,10 +5,10 @@ layout: home
 ---
 <h1 class="page-heading">Hey, it's James</h1>
 
-Welcome to my wonderful generic dumping ground of stuff. You'll find ramblings on tech, theme parks and various development projects at some point soon. At the moment, it's a work in progress
+Here's where I keep the various ramblings I call blog posts. There's not much here yet, and I don't expect many eyes on it, but I believe in the school of thought that writing things down and in public helps to clarify thoughts. If you do stumble here, enjoy!
 
 <div class="content-section">
-If you're here for ramblings on tech, <a href="/tech.html">click here</a>
+If you're here for ramblings on software, <a href="/tech.html">click here</a>
 </div>
 
 <div class="content-section">

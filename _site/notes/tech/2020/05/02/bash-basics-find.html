@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Bash Basics: find | James, The Dev</title>
+<meta name="generator" content="Jekyll v4.3.3" />
+<meta property="og:title" content="Bash Basics: find" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="find is a Command that traverses the file system below a given directory and finds files according to whichever rules it’s given. This is usually the quickest way to find specific files in a tree" />
+<meta property="og:description" content="find is a Command that traverses the file system below a given directory and finds files according to whichever rules it’s given. This is usually the quickest way to find specific files in a tree" />
+<link rel="canonical" href="http://localhost:4000/notes/tech/2020/05/02/bash-basics-find.html" />
+<meta property="og:url" content="http://localhost:4000/notes/tech/2020/05/02/bash-basics-find.html" />
+<meta property="og:site_name" content="James, The Dev" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2020-05-02T00:00:00+01:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Bash Basics: find" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2020-05-02T00:00:00+01:00","datePublished":"2020-05-02T00:00:00+01:00","description":"find is a Command that traverses the file system below a given directory and finds files according to whichever rules it’s given. This is usually the quickest way to find specific files in a tree","headline":"Bash Basics: find","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/notes/tech/2020/05/02/bash-basics-find.html"},"url":"http://localhost:4000/notes/tech/2020/05/02/bash-basics-find.html"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="James, The Dev" /></head>
+<body><header class="site-header" role="banner">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/">James, The Dev</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/about/">About</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">Bash Basics: find</h1>
+    <p class="post-meta"><time class="dt-published" datetime="2020-05-02T00:00:00+01:00" itemprop="datePublished">
+        May 2, 2020
+      </time></p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <p><code class="language-plaintext highlighter-rouge">find</code> is a Command that traverses the file system below a given directory and finds files according to whichever rules it’s given. This is usually the quickest way to find specific files in a tree</p>
+
+<h2 id="useful-examples">Useful Examples</h2>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Find a file with a name</span>
+find <span class="nb">.</span> <span class="nt">-name</span> hello.py  <span class="c"># Match exactly</span>
+find <span class="nb">.</span> <span class="nt">-name</span> <span class="s2">"*.py"</span>   <span class="c"># Match a pattern</span>
+
+<span class="c"># Find recently modified files (in minutes - *note* the minus sign - no "-" means exactly)</span>
+find <span class="nb">.</span> <span class="nt">-mmin</span> <span class="nt">-100</span> <span class="c"># in minutes</span>
+find <span class="nb">.</span> <span class="nt">-mtime</span> <span class="nt">-100m</span> <span class="c"># in any units</span>
+
+<span class="c"># Find files of a particular size (exactly, or [+/-])</span>
+find <span class="nb">.</span> <span class="nt">-size</span> +10M
+
+<span class="c"># Find files of a particular type, e.g. binary</span>
+find <span class="nb">.</span> <span class="nt">-type</span> b
+
+<span class="c"># Execute a command on every file found - {} expands to the name of the file</span>
+<span class="c"># -print reinstates the default printing behaviour of find</span>
+find <span class="nb">.</span> <span class="nt">-type</span> d <span class="nt">-perm</span> 777 <span class="nt">-print</span> <span class="nt">-exec</span> <span class="nb">rm</span> <span class="nt">-f</span> <span class="o">{}</span> <span class="se">\;</span>
+</code></pre></div></div>
+
+  </div><a class="u-url" href="/notes/tech/2020/05/02/bash-basics-find.html" hidden></a>
+</article>
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">James, The Dev</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">James, The Dev</li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p>James is a full stack web developer</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>
